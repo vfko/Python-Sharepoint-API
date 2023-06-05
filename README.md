@@ -25,7 +25,7 @@ Tested on Windows and Linux.
 
 **Edit Shareplum file `folder.py`**
 - path in Debian: /var/local/lib/python3.x/dist-package/shareplum/folder.py
-- path in Windows: ...\Python3x\Lib\site-packages\shareplum\folder.py
+- path in Windows: ...\Python3x\lib\site-packages\shareplum\folder.py
 - In `__init__` method change `timeout = 3` to `timeout = None`
 
 # Set config file
