@@ -35,9 +35,9 @@ In `.env` file add SharePoint identity.
 **Example**
 - sharepoint_email="sharepoint-user@example-domain.com
 - sharepoint_password="SharepointUserPassword"
-- sharepoint_url="https://<tenant>.sharepoint.com"
-- sharepoint_url_site="https://<tenant>.sharepoint.com/sites/<site-name>"
-- sharepoint_site_name="<site-name>"
+- sharepoint_url="https://**tenant**.sharepoint.com"
+- sharepoint_url_site="https://<tenant>.sharepoint.com/sites/**site-name**"
+- sharepoint_site_name="**site-name**"
 - sharepoint_doc_library="Shared Folder/"
   
  # Upload
