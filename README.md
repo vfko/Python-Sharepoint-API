@@ -48,7 +48,7 @@ In `.env` file add SharePoint identity.
   
   # Download
   
-  `python3 download.py "<path_to_local_file> <sharepoint_path> <option>"`
+  `python3 download.py "<path_to_local_file>" "<sharepoint_path>" <option>`
   
   For more detail use `download.py help`.
   
@@ -60,7 +60,7 @@ In `.env` file add SharePoint identity.
   
   # List
   
-  `python3 list.py <sharepoint_path> <option>`
+  `python3 list.py "<sharepoint_path>" <option>`
   
   For more detail use `list.py help`.
   
