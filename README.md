@@ -3,7 +3,7 @@ Download, upload, delete and list SharePoint files
 
 Easy to use.
 
-Tested on Windows and Linux platform.
+Tested on Windows and Linux.
 
 # Required libreries:
 - django-environ
